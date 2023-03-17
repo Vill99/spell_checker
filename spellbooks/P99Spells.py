@@ -712,7 +712,7 @@ p99spells = [
   {
     "Class": "Bard",
     "Level": 60,
-    "Name": "Kazumi`s Note of Preservation",
+    "Name": "Kazumi's Note of Preservation",
     "Description": "Party: Invulnerability",
     "Era": "Kunark",
     "Type": "Wind",
@@ -722,7 +722,7 @@ p99spells = [
   {
     "Class": "Bard",
     "Level": 60,
-    "Name": "Angstlich`s Assonance",
+    "Name": "Angstlich's Assonance",
     "Description": "Target: DoT Decrease Attack Speed",
     "Era": "Kunark",
     "Type": "Brass",
