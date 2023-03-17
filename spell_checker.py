@@ -3,7 +3,7 @@ Spell Checker
 
 Open a spellbook text file.
 Determine the class based on the spells contained. If not enough spells to
-determine the class, just output an error.
+determine the class, just output a string saying as much.
 A Max level can be specified as a parameter.
 
 Parameters are Name, Level and Era.
@@ -78,7 +78,7 @@ def determine_class(spell_book):
         if found == 1:
             return character_class
     print("Unable to determine class.")
-    quit(3)
+    return None
 
 
 def find_missing(spell_book, args, character_class):
@@ -95,7 +95,7 @@ def find_missing(spell_book, args, character_class):
                         print(str(p99spell["Level"]) + " " + p99spell["Name"])
 
 
-def get_spellbooks(args):
+def check_all_spellbooks(args):
     spell_book_list = []
     file_list = os.listdir(".")
     for filename in file_list:
@@ -119,7 +119,7 @@ def main():
     if args.name:
         check_spellbook(args)
     else:
-        spell_book_list = get_spellbooks(args)
+        check_all_spellbooks(args)
 
 
 
