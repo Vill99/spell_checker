@@ -61,6 +61,12 @@ def get_args():
         choices=ERA_LIST,
         help="Latest era to look for spells."
     )
+    parser.add_argument(
+        "--obtained",
+        "-o",
+        action='store_true',
+        help="""Show the location for obtaining the spell."""
+    )
     args = parser.parse_args()
     return args
 
@@ -93,6 +99,8 @@ def find_missing(spell_book, args, character_class):
                             found = True
                     if not found:
                         print(str(p99spell["Level"]) + " " + p99spell["Name"])
+                        if args.obtained:
+                            print("\tObtained: " + str(p99spell['Obtained']))
 
 
 def check_all_spellbooks(args):
@@ -120,7 +128,6 @@ def main():
         check_spellbook(args)
     else:
         check_all_spellbooks(args)
-
 
 
 if __name__ == "__main__":
