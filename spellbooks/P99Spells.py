@@ -2412,7 +2412,7 @@ p99spells = [
   {
     "Class": "Druid",
     "Level": 1,
-    "Name": "Skin Like Wood",
+    "Name": "Skin like Wood",
     "Description": "Increase targets hitpoints and AC",
     "Era": "Classic",
     "Type": "Abj.",
@@ -2722,7 +2722,7 @@ p99spells = [
   {
     "Class": "Druid",
     "Level": 14,
-    "Name": "Skin Like Rock",
+    "Name": "Skin like Rock",
     "Description": "Increases target's hitpoints and AC",
     "Era": "Classic",
     "Type": "Abj.",
@@ -3062,7 +3062,7 @@ p99spells = [
   {
     "Class": "Druid",
     "Level": 24,
-    "Name": "Skin Like Steel",
+    "Name": "Skin like Steel",
     "Description": "Increase targets hitpoints and AC",
     "Era": "Classic",
     "Type": "Abj.",
@@ -3622,7 +3622,7 @@ p99spells = [
   {
     "Class": "Druid",
     "Level": 39,
-    "Name": "Skin Like Diamond",
+    "Name": "Skin like Diamond",
     "Description": "Increases targets hitpoints and AC",
     "Era": "Classic",
     "Type": "Abj.",
@@ -5192,7 +5192,7 @@ p99spells = [
   {
     "Class": "Enchanter",
     "Level": 20,
-    "Name": "Sisna's Animation",
+    "Name": "Sisna`s Animation",
     "Description": "Summon an Animation",
     "Era": "Classic",
     "Type": "Con.",
@@ -5312,7 +5312,7 @@ p99spells = [
   {
     "Class": "Enchanter",
     "Level": 24,
-    "Name": "Sagar's Animation",
+    "Name": "Sagar`s Animation",
     "Description": "Summon an Animation",
     "Era": "Classic",
     "Type": "Con.",
@@ -6302,7 +6302,7 @@ p99spells = [
   {
     "Class": "Enchanter",
     "Level": 55,
-    "Name": "Zumaik's Animation",
+    "Name": "Zumaik`s Animation",
     "Description": "Summon an Animation",
     "Era": "Kunark",
     "Type": "Con.",
@@ -10702,7 +10702,7 @@ p99spells = [
   {
     "Class": "Ranger",
     "Level": 9,
-    "Name": "Skin Like Wood",
+    "Name": "Skin like Wood",
     "Description": "AC and Max HP Buff",
     "Era": "Classic",
     "Type": "Abj.",
@@ -10872,7 +10872,7 @@ p99spells = [
   {
     "Class": "Ranger",
     "Level": 22,
-    "Name": "Skin Like Rock",
+    "Name": "Skin like Rock",
     "Description": "AC and Max HP Buff with Healing Spell",
     "Era": "Classic",
     "Type": "Abj.",
@@ -11052,7 +11052,7 @@ p99spells = [
   {
     "Class": "Ranger",
     "Level": 39,
-    "Name": "Skin Like Steel",
+    "Name": "Skin like Steel",
     "Description": "AC and Max HP Buff with Healing Spell",
     "Era": "Classic",
     "Type": "Abj.",
@@ -11342,7 +11342,7 @@ p99spells = [
   {
     "Class": "Ranger",
     "Level": 59,
-    "Name": "Skin Like Nature",
+    "Name": "Skin like Nature",
     "Description": "AC and Max HP and HP Regen Buff with Healing Spell",
     "Era": "Velious",
     "Type": "Evo.",
