@@ -2346,7 +2346,7 @@ p99spells = [
     "Description": "Summons a globe of light",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor.",
+    "Obtained": "G.Fay, Rivervale, Surefall Glade.",
     "Mana": 10
   },
   {
