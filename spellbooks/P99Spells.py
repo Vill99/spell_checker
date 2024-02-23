@@ -13836,7 +13836,7 @@ p99spells = [
     "Description": "The Ultimate Melee Stat Buff (No Component)",
     "Era": "Velious",
     "Type": "Alt.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, Sleeper's Tomb",
     "Mana": 325
   },
   {
