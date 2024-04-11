@@ -11286,7 +11286,7 @@ p99spells = [
     "Description": "Ultravision Buff (self only)",
     "Era": "Kunark",
     "Type": "Div.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin Firiona Vie Neriak Felwithe",
     "Mana": 75
   },
   {
@@ -13956,7 +13956,7 @@ p99spells = [
     "Description": "A fire based damage shield cast it on your friends to damage foes that hit them.",
     "Era": "Classic",
     "Type": "Abj.",
-    "Obtained": "Vendor.",
+    "Obtained": "Iceclad Thurgadin",
     "Mana": 15
   },
   {
@@ -14496,7 +14496,7 @@ p99spells = [
     "Description": "Evacuates the Group to North Karana",
     "Era": "Classic",
     "Type": "Alt.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin Neriak Felwithe",
     "Mana": 300
   },
   {
@@ -14536,7 +14536,7 @@ p99spells = [
     "Description": "Self Only Zoom and Ultravision",
     "Era": "Classic",
     "Type": "Div.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin Neriak Felwithe",
     "Mana": 25
   },
   {
@@ -14626,7 +14626,7 @@ p99spells = [
     "Description": "Evacuates the Group to Greater Faydark",
     "Era": "Classic",
     "Type": "Alt.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin Neriak Felwithe",
     "Mana": 300
   },
   {
@@ -15016,7 +15016,7 @@ p99spells = [
     "Description": "Evacuates Group to Nektulos Forest",
     "Era": "Classic",
     "Type": "Alt.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin Neriak Felwithe",
     "Mana": 300
   },
   {
@@ -15036,7 +15036,7 @@ p99spells = [
     "Description": "Area Effect Cold Rain Damage (Max: 250)",
     "Era": "Classic",
     "Type": "Evo.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin.",
     "Mana": 312
   },
   {
@@ -15106,7 +15106,7 @@ p99spells = [
     "Description": "Group Gate to Wakening Lands",
     "Era": "Velious",
     "Type": "Alt.",
-    "Obtained": "Vendor.",
+    "Obtained": "Skyshrine",
     "Mana": 300
   },
   {
@@ -15116,7 +15116,7 @@ p99spells = [
     "Description": "Group Teleport to the Plane of Hate",
     "Era": "Classic",
     "Type": "Alt.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin Neriak Felwithe",
     "Mana": 300
   },
   {
@@ -15126,7 +15126,7 @@ p99spells = [
     "Description": "Group Teleport to Plane of Sky",
     "Era": "Classic",
     "Type": "Alt.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin Neriak Felwithe",
     "Mana": 300
   },
   {
@@ -15136,7 +15136,7 @@ p99spells = [
     "Description": "Quickly Teleports the Group to Western Karana",
     "Era": "Classic",
     "Type": "Alt.",
-    "Obtained": "Vendor.",
+    "Obtained": "Erudin Neriak Felwithe",
     "Mana": 300
   },
   {
