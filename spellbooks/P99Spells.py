@@ -4692,7 +4692,7 @@ p99spells = [
   {
     "Class": "Enchanter",
     "Level": 8,
-    "Name": "Mircyl`s Animation",
+    "Name": "Mircyl's Animation",
     "Description": "Summon an Animation",
     "Era": "Classic",
     "Type": "Con.",
@@ -4832,7 +4832,7 @@ p99spells = [
   {
     "Class": "Enchanter",
     "Level": 12,
-    "Name": "Kilan's Animation",
+    "Name": "Kilan`s Animation",
     "Description": "Summon an Animation",
     "Era": "Classic",
     "Type": "Con.",
@@ -5052,7 +5052,7 @@ p99spells = [
   {
     "Class": "Enchanter",
     "Level": 16,
-    "Name": "Shalee's Animation",
+    "Name": "Shalee`s Animation",
     "Description": "Summon an Animation",
     "Era": "Classic",
     "Type": "Con.",
@@ -5472,7 +5472,7 @@ p99spells = [
   {
     "Class": "Enchanter",
     "Level": 29,
-    "Name": "Uleen's Animation",
+    "Name": "Uleen`s Animation",
     "Description": "Summon an Animation",
     "Era": "Classic",
     "Type": "Con.",
@@ -5502,7 +5502,7 @@ p99spells = [
   {
     "Class": "Enchanter",
     "Level": 34,
-    "Name": "Boltran's Animation",
+    "Name": "Boltran`s Animation",
     "Description": "Summon an Animation",
     "Era": "Classic",
     "Type": "Con.",
@@ -13956,7 +13956,7 @@ p99spells = [
     "Description": "A fire based damage shield cast it on your friends to damage foes that hit them.",
     "Era": "Classic",
     "Type": "Abj.",
-    "Obtained": "Iceclad Thurgadin",
+    "Obtained": "Vendor.",
     "Mana": 15
   },
   {
@@ -14726,7 +14726,7 @@ p99spells = [
     "Description": "Single Target Fire Based Damage Shield (Max: 5)",
     "Era": "Velious",
     "Type": "Abj.",
-    "Obtained": "Vendor.",
+    "Obtained": "Iceclad Thurgadin.",
     "Mana": 115
   },
   {
