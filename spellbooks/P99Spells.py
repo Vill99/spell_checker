@@ -2066,7 +2066,7 @@ p99spells = [
     "Description": "Removes magical effects",
     "Era": "Kunark",
     "Type": "Abj.",
-    "Obtained": "Vendor.",
+    "Obtained": "Firiona Vie Overthere",
     "Mana": 75
   },
   {
@@ -4116,7 +4116,7 @@ p99spells = [
     "Description": "Upgrade to Nullify Magic",
     "Era": "Kunark",
     "Type": "Abj.",
-    "Obtained": "Vendor.",
+    "Obtained": "Firiona Vie Overthere.",
     "Mana": 75
   },
   {
@@ -4136,7 +4136,7 @@ p99spells = [
     "Description": "Direct Damage vs Summoned (Max: 675-725; 2.7-2.9 DPM)",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "Firiona Vie.",
+    "Obtained": "Firiona Vie Overthere",
     "Mana": 250
   },
   {
@@ -9636,7 +9636,7 @@ p99spells = [
     "Description": "Dispels magic effects from the target.",
     "Era": "Kunark",
     "Type": "Abj.",
-    "Obtained": "Vendor.",
+    "Obtained": "Firiona Vie Overthere.",
     "Mana": 75
   },
   {
@@ -13576,7 +13576,7 @@ p99spells = [
     "Description": "Single Target Magical Debuffer",
     "Era": "Kunark",
     "Type": "Abj.",
-    "Obtained": "Vendor",
+    "Obtained": "Firiona Vie Overthere",
     "Mana": 75
   },
   {
