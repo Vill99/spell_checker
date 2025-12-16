@@ -1566,7 +1566,7 @@ p99spells = [
     "Description": "Increases own HP and AC",
     "Era": "Velious",
     "Type": "Abj.",
-    "Obtained": "Vendor.",
+    "Obtained": "Iceclad or Thurgadin.",
     "Mana": 110
   },
   {
@@ -6796,7 +6796,7 @@ p99spells = [
     "Description": "Summons 1 Summoned: Staff of Tracing",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Ak'Anon, Erudin, Neriak",
     "Mana": 20
   },
   {
@@ -6896,7 +6896,7 @@ p99spells = [
     "Description": "Summons 1 Summoned: Snake Fang",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Ak'Anon, Erudin, Neriak",
     "Mana": 40
   },
   {
@@ -7006,7 +7006,7 @@ p99spells = [
     "Description": "Summons 1 Summoned: Staff of Warding",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Ak'Anon, Erudin, Neriak",
     "Mana": 40
   },
   {
@@ -7016,7 +7016,7 @@ p99spells = [
     "Description": "Summons 1 Summoned: Heatstone",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Ak'Anon, Erudin, Neriak, Ocean of Tears",
     "Mana": 40
   },
   {
@@ -7026,7 +7026,7 @@ p99spells = [
     "Description": "Summons 20 Summoned: Throwing Dagger",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Ak'Anon, Erudin, Neriak",
     "Mana": 20
   },
   {
@@ -7136,7 +7136,7 @@ p99spells = [
     "Description": "Summons 1 Summoned: Spear of Warding",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Ak'Anon, Erudin, Neriak, Ocean of Tears",
     "Mana": 60
   },
   {
@@ -7146,7 +7146,7 @@ p99spells = [
     "Description": "Summons 20 Summoned: Arrow",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Ak'Anon, Erudin, Neriak, Ocean of Tears",
     "Mana": 30
   },
   {
@@ -7156,7 +7156,7 @@ p99spells = [
     "Description": "Summons 1 Summoned: Waterstone",
     "Era": "Classic",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Ak'Anon, Erudin, Neriak",
     "Mana": 40
   },
   {
