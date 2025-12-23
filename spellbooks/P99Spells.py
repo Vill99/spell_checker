@@ -7476,7 +7476,7 @@ p99spells = [
     "Description": "Summon a Monster Pet",
     "Era": "Velious",
     "Type": "Con.",
-    "Obtained": "Vendor",
+    "Obtained": "Iceclad, Thurgadin",
     "Mana": 200
   },
   {
@@ -7696,7 +7696,7 @@ p99spells = [
     "Description": "Single Target Fire Resist (FR) Cold Resist (CR) Magic Resist (MR) and Poison Resist (PR) Debuff (Max: 40)",
     "Era": "Classic",
     "Type": "Alt.",
-    "Obtained": "Vendor.",
+    "Obtained": "Vendor. Scroll is named Malaisement",
     "Mana": 100
   },
   {
