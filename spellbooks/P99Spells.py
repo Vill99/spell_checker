@@ -1986,7 +1986,7 @@ p99spells = [
     "Description": "Costs a Pearl for 6 min gives recipient chance to be healed if they would die",
     "Era": "Kunark",
     "Type": "Abj.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 100
   },
   {
@@ -2046,7 +2046,7 @@ p99spells = [
     "Description": "AE DD spell",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 625
   },
   {
@@ -2096,7 +2096,7 @@ p99spells = [
     "Description": "Direct damage spell (675 damage; 2.25 DPM)",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 250
   },
   {
@@ -3946,7 +3946,7 @@ p99spells = [
     "Description": "Group Resist Fire",
     "Era": "Kunark",
     "Type": "Abj.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 150
   },
   {
@@ -3986,7 +3986,7 @@ p99spells = [
     "Description": "Area effect Point blank Direct Damage (Max: 725)",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "Quest.",
+    "Obtained": "Quest Reward for turn in spell",
     "Mana": 625
   },
   {
@@ -4016,7 +4016,7 @@ p99spells = [
     "Description": "Group Resist Cold",
     "Era": "Kunark",
     "Type": "Abj.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 150
   },
   {
@@ -4046,7 +4046,7 @@ p99spells = [
     "Description": "Greatly increases movement rate of the group",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 150
   },
   {
@@ -4086,7 +4086,7 @@ p99spells = [
     "Description": "Turns the caster into a wolf increasing movement rate mana regeneration and granting Ultravision",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 100
   },
   {
@@ -6126,7 +6126,7 @@ p99spells = [
     "Description": "Single Target Mana Tap (Max: 400)",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 25
   },
   {
@@ -6156,7 +6156,7 @@ p99spells = [
     "Description": "Stuns and Mana Drain all Targets Around Caster (8 Secs)",
     "Era": "Kunark",
     "Type": "Div.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 125
   },
   {
@@ -6206,7 +6206,7 @@ p99spells = [
     "Description": "Single Target Melee Debuff",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 225
   },
   {
@@ -6236,7 +6236,7 @@ p99spells = [
     "Description": "Single Target Magical Direct Damage (Max: 675)",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 250
   },
   {
@@ -7846,7 +7846,7 @@ p99spells = [
     "Description": "Summons stuff",
     "Era": "Kunark",
     "Type": "Con.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 60
   },
   {
@@ -7886,7 +7886,7 @@ p99spells = [
     "Description": "Summons Stuff",
     "Era": "Kunark",
     "Type": "Con.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 50
   },
   {
@@ -7946,7 +7946,7 @@ p99spells = [
     "Description": "Summons 1  Quiver of Marr with 60 Summoned: Arrow of Marr",
     "Era": "Kunark",
     "Type": "Con.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 60
   },
   {
@@ -7976,7 +7976,7 @@ p99spells = [
     "Description": "Single Target Fire-based Projectile Direct Damage (DD) (Max: 450)",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 175
   },
   {
@@ -9586,7 +9586,7 @@ p99spells = [
     "Description": "Deals 11 damage on the first tick and damage increases by 12 per tick for 17 ticks to a final tick of 203 damage. (7.579dpm..1819 Total)",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 240
   },
   {
@@ -9596,7 +9596,7 @@ p99spells = [
     "Description": "Deals 645 to 725 damage to target plant.",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 250
   },
   {
@@ -9646,7 +9646,7 @@ p99spells = [
     "Description": "Returns target player to life restoring 93% experience. Consumes an Essence Emerald when cast.",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 700
   },
   {
@@ -9706,7 +9706,7 @@ p99spells = [
     "Description": "Charms target undead creature to act as the caster's minion for 17 to 20 minutes. Breaks randomly.",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 300
   },
   {
@@ -10646,7 +10646,7 @@ p99spells = [
     "Description": "Self Only Combat Buff",
     "Era": "Velious",
     "Type": "Abj.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 1
   },
   {
@@ -13446,7 +13446,7 @@ p99spells = [
     "Description": "Group Resist Disease",
     "Era": "Kunark",
     "Type": "Abj.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 150
   },
   {
@@ -13486,7 +13486,7 @@ p99spells = [
     "Description": "Group Movement Speed Buff",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 150
   },
   {
@@ -13496,7 +13496,7 @@ p99spells = [
     "Description": "Single Target Melee Debuff",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 225
   },
   {
@@ -13536,7 +13536,7 @@ p99spells = [
     "Description": "Self Convert Health to Mana",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 0
   },
   {
@@ -15256,7 +15256,7 @@ p99spells = [
     "Description": "Area Effect Snare Spell. Hits a max of 4 mobs.",
     "Era": "Kunark",
     "Type": "Alt.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 125
   },
   {
@@ -15276,7 +15276,7 @@ p99spells = [
     "Description": "Quad kiting spell Targeted Area Effect Cold Spell. (800 DMG 177.7*(targets_hit) DPS)",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 325
   },
   {
@@ -15326,7 +15326,7 @@ p99spells = [
     "Description": "Targeted Rain Magic Spell. 600/wave Max:1800x1 mob/2400x2 mob 4.74 DPM/6.3 DPM. Resist Gambling.",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 380
   },
   {
@@ -15356,7 +15356,7 @@ p99spells = [
     "Description": "Targeted Area Effect Fire Spell. 800 DMG 1.28 DPM. Inefficient.",
     "Era": "Kunark",
     "Type": "Evo.",
-    "Obtained": "NPC Drop.",
+    "Obtained": "NPC Drop, turn in spell for Quest",
     "Mana": 625
   },
   {
